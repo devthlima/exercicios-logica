@@ -1,1 +1,1 @@
-# exercicios-logica
+# Exercício de Lógica de Programação.
