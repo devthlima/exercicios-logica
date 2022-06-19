@@ -5,4 +5,4 @@ Exercícios  retirados do Livro **Fundamentos da Programação de Computadores 3
 * Tópicos: 
 
 1. [Estrutura Sequencial](https://github.com/devthlima/exercicios-logica/tree/main/Estrutura%20Sequencial)
-2. [Estrutura Condicional]()
+2. [Estrutura Condicional](https://github.com/devthlima/exercicios-logica/tree/main/Estrutura%20Condicional)
