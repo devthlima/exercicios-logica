@@ -33,7 +33,7 @@
    Menu de opções:
    1. Somar dois números.
    2. Raiz quadrada de um número.
-     Digite a opção desejada:
+       Digite a opção desejada:
 9. Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA –
    mês por extenso e hora:minuto.
 10. Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo
@@ -48,3 +48,13 @@
 
 ![image-20220619183819979](C:\Users\Familia Lima\AppData\Roaming\Typora\typora-user-images\image-20220619183819979.png)
 
+13. Faça um programa que apresente o menu a seguir, permita ao usuário escolher a opção desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de opção inválida e não se preocupe com restrições, como salário negativo.
+
+​		Menu de opções:
+
+1. Imposto
+2. Novo salário
+3. Classificação
+  Digite a opção desejada.
+
+![image-20220624101224752](C:\Users\Familia Lima\AppData\Roaming\Typora\typora-user-images\image-20220624101224752.png)

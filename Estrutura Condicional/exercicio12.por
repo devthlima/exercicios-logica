@@ -23,35 +23,35 @@ programa
 		se (cargo == 1) { 
 			escreva("O Cargo é Escrituário\n")
 			aumento = salario * 50 / 100
-			escreva("O valor do aumento é: ",aumento)
+			escreva("O valor do aumento é: ",aumento,"\n")
 			novoSalario = salario  + aumento
 			escreva("O novo salário é: ",novoSalario)
 		}
 		senao se (cargo == 2){ 
 			escreva("O Cargo é Secretário\n")
 			aumento = salario * 35 / 100
-			escreva("O valor do aumento é: ",aumento)
+			escreva("O valor do aumento é: ",aumento,"\n")
 			novoSalario = salario  + aumento
 			escreva("O novo salário é: ",novoSalario)
 		}
 		senao se (cargo == 3){ 
 			escreva("O Cargo é Caixa\n")
 			aumento = salario * 20 / 100
-			escreva("O valor do aumento é: ",aumento)
+			escreva("O valor do aumento é: ",aumento,"\n")
 			novoSalario = salario  + aumento
 			escreva("O novo salário é: ",novoSalario)
 		}
 		senao se (cargo == 4){ 
 			escreva("O Cargo é Secretário\n")
 			aumento = salario * 10 / 100
-			escreva("O valor do aumento é: ",aumento)
+			escreva("O valor do aumento é: ",aumento,"\n")
 			novoSalario = salario  + aumento
 			escreva("O novo salário é: ",novoSalario)
 		}
 		senao se (cargo == 5){ 
 			escreva("O Cargo é Secretário\n")
 			aumento = salario * 0 / 100
-			escreva("O valor do aumento é: ",aumento)
+			escreva("O valor do aumento é: ",aumento,"\n")
 			novoSalario = salario  + aumento
 			escreva("O novo salário é: ",novoSalario)
 		}
@@ -65,7 +65,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1388; 
+ * @POSICAO-CURSOR = 673; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
